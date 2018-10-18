@@ -9,7 +9,7 @@ and will hopefully lead to productive team work with fewer conflicts
 and missed deadlines.
 
 ## How we will assign (and reassign) tasks
-
+We can make schedules about the process of the whole tasks and distribute them evenly.
 
 
 ## How will we will track progress (and follow-up) on completion of tasks
