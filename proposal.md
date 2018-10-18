@@ -63,6 +63,9 @@ A senior living facility is looking for a new way to track patient's heartrates 
 
 
 Name each interface or class and briefly describe its function or purpose.
+###### The linked list will allow us to gain access to a patients data in a chronological order and allow the user to see how it has 
+###### changed over time. The priority queue will allow a doctor or a nurse to be alerted when someones heart rate is too high or to low   
+###### so the patinets with a dangerous heart rate will be seen first.
 
 
 ## Edit and Submit this file and any figures referenced by this document.
