@@ -34,7 +34,7 @@ A senior living facility is looking for a new way to track patient's heartrates 
 
 1. Name: Give your project proposal a name (and edit the top line of this file).
 
-Heart Rate Prioritization and Storage for Aged Patients (70-80 yrs old)
+   #Heart Rate Prioritization and Storage for Aged Patients (70-80 yrs old)
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
