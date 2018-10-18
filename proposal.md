@@ -48,8 +48,8 @@ A senior living facility is looking for a new way to track patient's heartrates 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
    ###### The interface should allow users to search for a patient and then add their heart rate at that moment in time into the computer.
-   When a patient is searched for the patient's heart rate history should appear in a list on the screen. The list should alert the
-   user if the heart rate entered for that day is alarming and the hearrates of the previous days.
+   ###### When a patient is searched for the patient's heart rate history should appear in a list on the screen. The list should alert the
+   ###### user if the heart rate entered for that day is alarming and the hearrates of the previous days.
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
