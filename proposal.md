@@ -48,6 +48,7 @@ A senior living facility is looking for a new way to track patient's heartrates 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
       In order to do this we will need a couple of different things.  We will need a key for the person who we are entering and a their current heartrate, and, if we have not had an entry for them before, a mean heart rate.
+      
       Ex Entry for a new Person
       HEART RATE ENTRY
       Please Enter the Patient's Name: Nu Sue
