@@ -1,4 +1,4 @@
-# X-Team 67 Project Proposal
+# X-Team NN Project Proposal
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -38,27 +38,16 @@ A senior living facility is looking for a new way to track patient's heartrates 
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
-    ###### Print severals lines and each line includes the name of a patientl, the date they do health checks and the heart rates of that patient at each health check. The order of each line will follow the order they are in the priority queue.
+###### * Print severals lines and each line includes the name of a patientl, the date they do health checks and the heart rates of that patient at each health check. The order of each line will follow the order they are in the priority queue.
 
-    ###### Example output:
-    ###### Patient1:   date1: heart rate 1  date2: heart rate 2  date3: heart rate 3
-    ###### Patient2:   date4: heart rate 4  date5: heart rate 5  date6: heart rate 6  date7: heart rate 7
-    ###### Patient3:   date8: heart rate 8  date9: heart rate 9  
+###### Example output:
+###### Patient1:   date1: heart rate 1  date2: heart rate 2  date3: heart rate 3
+###### Patient2:   date4: heart rate 4  date5: heart rate 5  date6: heart rate 6  date7: heart rate 7
+###### Patient3:   date8: heart rate 8  date9: heart rate 9  
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
-      In order to do this we will need a couple of different things.  We will need a key for the person who we are entering and a their current heartrate, and, if we have not had an entry for them before, a mean heart rate.
-      Ex Entry for a new Person
-      HEART RATE ENTRY
-      Please Enter the Patient's Name: Nu Sue
-      Please Enter the Patient's Heartrate: 66
-      This Patient Appears to be New
-      Enter Average Heart Rate to Initiate New Patient or type no to cancel:
-      
-      Ex Entry for a Person Who Has Already Been Recorded. 
-      HEART RATE ENTRY
-      Please Enter the Patient's Name: Grammy Smith
-      Please Enter the Patient's Heartrate: 88
+
 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
@@ -69,7 +58,8 @@ A senior living facility is looking for a new way to track patient's heartrates 
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
-
+   ###### We will use a linked list to hold a patients data. We will use a priority queue to hold each patient and priority will be
+   ###### established based off how far the current heart rate is from the mean.
 
 
 Name each interface or class and briefly describe its function or purpose.
