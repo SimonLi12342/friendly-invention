@@ -21,7 +21,7 @@ We can make schedules about the process of the whole tasks and distribute them e
 
 
 ## How we will back up each other to ensure that deadlines are not missed
-
+We can keep other team members updated when we complete a task. If a member needs help with their task then they should message the team in the group chat to collaborate on the task that a member needs help with.
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
