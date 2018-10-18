@@ -17,7 +17,8 @@ We can make schedules about the process of the whole tasks and distribute them e
 
 
 ## How will will communicate difficulties with a task assigned to us
-
+Trivial ones can be discussed on GroupMe. Group meetings can be scheduled for tougher ones.
+Use lab hours and office hours if we cannot solve the problem ourselves.
 
 
 ## How we will back up each other to ensure that deadlines are not missed
