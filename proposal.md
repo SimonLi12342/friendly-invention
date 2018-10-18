@@ -32,8 +32,9 @@ A senior living facility is looking for a new way to track patient's heartrates 
 
 ## Questions to answer for Exercise #2
 
-1. Name: Give your project proposal a name (and edit the top line of this file)
+1. Name: Give your project proposal a name (and edit the top line of this file).
 
+   ###### Heart Rate Prioritization and Storage for Aged Patients (70-80 yrs old)
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
@@ -45,7 +46,7 @@ A senior living facility is looking for a new way to track patient's heartrates 
 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
-The interface should allow users to search for a patient and then add their heart rate at that moment in time into the computer. When a patient is searched for the patient's heart rate history should appear in a list on the screen. The list should alert the user if the heart rate entered for that day is alarming and the hearrates of the previous days.
+
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
