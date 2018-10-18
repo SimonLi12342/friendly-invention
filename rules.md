@@ -25,6 +25,6 @@ We can keep other team members updated when we complete a task. If a member need
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
-
+Use group-me as the main source of communication to ensure everyone in the group is being updated.
 
 
