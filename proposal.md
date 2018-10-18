@@ -28,14 +28,12 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
  Tip: Your custom data structure can be composed of or extensions of data structures that you have learned and used in previous programming assignments.  We're looking for decisions about how to build a high-level data structure that will likely have lower-level components.
 
 ## Problem Description
-
-Briefly describe a problem that your team would like to solve.  
-Describe at a high level a program that could solve that problem.
+A senior living facility is looking for a new way to track patient's heartrates and ensure that their patients maintain a healthy heart rate. The facility wants patients with an unsafe heart rate to be seen by a nurse or doctor as soon as possible and the doctor's should be able to see their heart rate history when checking up on a patient. 
 
 ## Questions to answer for Exercise #2
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
- Heart Rate Prioritization and Storage for Aged Patients (70-80 yrs old)
+
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
