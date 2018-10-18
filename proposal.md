@@ -38,7 +38,7 @@ A senior living facility is looking for a new way to track patient's heartrates 
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
-###### * Print severals lines and each line includes the name of a patientl, the date they do health checks and the heart rates of that patient at each health check. The order of each line will follow the order they are in the priority queue.
+    ###### Print severals lines and each line includes the name of a patientl, the date they do health checks and the heart rates of that patient at each health check. The order of each line will follow the order they are in the priority queue.
 
 ###### Example output:
 ###### Patient1:   date1: heart rate 1  date2: heart rate 2  date3: heart rate 3
