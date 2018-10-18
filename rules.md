@@ -9,16 +9,15 @@ and will hopefully lead to productive team work with fewer conflicts
 and missed deadlines.
 
 ## How we will assign (and reassign) tasks
-We can make schedules about the process of the whole tasks and distribute them evenly.
+We can make schedules about the process of the whole tasks and distribute them evenly.  If anyone has trouble with a task it is their responsibility to talk to the team.
 
 
-## How will we will track progress (and follow-up) on completion of tasks
+## How will we track progress (and follow-up) on completion of tasks
+After assigning tasks, we will make it clear when each task is expected to be done.  We will check-in at the halfway point between assignment and due date in order to make sure everyone is still on track.
 
-
-
-## How will will communicate difficulties with a task assigned to us
+## How will you communicate difficulties with a task assigned to us
 Trivial ones can be discussed on GroupMe. Group meetings can be scheduled for tougher ones.
-Use lab hours and office hours if we cannot solve the problem ourselves.
+We will use lab hours and office hours if we cannot solve the problem ourselves.
 
 
 ## How we will back up each other to ensure that deadlines are not missed
