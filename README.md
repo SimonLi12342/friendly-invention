@@ -7,13 +7,16 @@
 
 2. Answer these questions
    * What are the GitHub usernames and names of your team members?
-       * GitHub username 1: ###### mgiordano12      name 1: ###### Michael Giordano
-       * GitHub username 2: ###### simonli12342      name 2: ###### Simeng Li
-       * GitHub username 3: ###### bkempfert      name 3: ###### Ben Kempfert
-       * GitHub username 4: ###### hsu56      name 4: ###### Huifeng Su
+       * GitHub username 1: mgiordano12      name 1: Michael Giordano
+       * GitHub username 2: simonli12342      name 2: Simeng Li
+       * GitHub username 3: bkempfert      name 3: Ben Kempfert
+       * GitHub username 4: hsu56      name 4: Huifeng Su
        * GitHub username 5:       name 5:
-   * When did you complete this exercise? ###### Thursday, October 18th at 7:00 P.M.
-   * How long did it take your team to complete this exercise? ###### 1.5 Hours
+   * When did you complete this exercise? 
+     Thursday, October 18th at 7:00 P.M.
+     
+   * How long did it take your team to complete this exercise? 
+     1.5 Hours
 
 ## Table of Contents
 
