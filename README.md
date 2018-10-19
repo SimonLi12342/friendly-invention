@@ -13,10 +13,12 @@
        * GitHub username 4: hsu56      name 4: Huifeng Su
        * GitHub username 5:       name 5:
    * When did you complete this exercise? 
-     Thursday, October 18th at 7:00 P.M.
+   
+     * Thursday, October 18th at 7:00 P.M.
      
    * How long did it take your team to complete this exercise? 
-     1.5 Hours
+   
+     * 1.5 Hours
 
 ## Table of Contents
 
