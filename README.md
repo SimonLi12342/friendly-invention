@@ -7,7 +7,7 @@
 
 2. Answer these questions
    * What are the GitHub usernames and names of your team members?
-       * GitHub username 1: mgiordano12      name 1: Michael Giordano
+       * GitHub username 1: mgiordano12     \t  name 1: Michael Giordano
        * GitHub username 2: simonli12342      name 2: Simeng Li
        * GitHub username 3: bkempfert      name 3: Ben Kempfert
        * GitHub username 4: hsu56      name 4: Huifeng Su
